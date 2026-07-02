@@ -15,6 +15,7 @@
   "minecraft:story/cure_zombie_villager": "Доктор для зомби",
   "minecraft:story/follow_ender_eye": "Недреманное око",
   "minecraft:story/enter_the_end": "Конец?",
+
   "minecraft:nether/root": "Незер",
   "minecraft:nether/return_to_sender": "Вернуть отправителю",
   "minecraft:nether/find_bastion": "Наф-Наф тут больше не живёт",
@@ -38,6 +39,7 @@
   "minecraft:nether/all_potions": "Энергетический коктейль",
   "minecraft:nether/create_full_beacon": "Маяковский",
   "minecraft:nether/all_effects": "Невозможное возможно!",
+
   "minecraft:end/root": "Энд",
   "minecraft:end/kill_dragon": "Освободите Энд",
   "minecraft:end/dragon_egg": "Новое поколение",
@@ -47,6 +49,7 @@
   "minecraft:end/find_end_city": "Будь как дома, путник",
   "minecraft:end/elytra": "Где твои крылья?",
   "minecraft:end/levitate": "Прекрасный вид!",
+
   "minecraft:adventure/root": "Приключения",
   "minecraft:adventure/heart_transplanter": "Скрепя сердцем",
   "minecraft:adventure/voluntary_exile": "Добровольное изгнание",
@@ -94,6 +97,7 @@
   "minecraft:adventure/revaulting": "Непросто ларчик открывался",
   "minecraft:adventure/blowback": "Не дуйся",
   "minecraft:adventure/overoverkill": "Есть пробитие!",
+
   "minecraft:husbandry/root": "Сельское хозяйство",
   "minecraft:husbandry/place_dried_ghast_in_water": "Гастеприимство!",
   "minecraft:husbandry/safely_harvest_honey": "Пора подкрепиться",
